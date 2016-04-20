@@ -29,4 +29,4 @@ Collections.sort(strs, String::compareTo);
 
 ## Lambda 开始学习
 
-使用说明见bolg :[Lambda的使用与实战](http://http://blog.csdn.net/relicemxd/article/details/51201255)
+使用说明见bolg :[Lambda的使用与实战](http://blog.csdn.net/relicemxd/article/details/51201255)
